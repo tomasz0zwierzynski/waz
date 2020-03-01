@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\johiuggf\johiuggf\bin\Debug\netcoreapp2.0\johiuggf.deps.json
+C:\Users\dell\source\repos\johiuggf\johiuggf\bin\Debug\netcoreapp2.0\johiuggf.runtimeconfig.json
+C:\Users\dell\source\repos\johiuggf\johiuggf\bin\Debug\netcoreapp2.0\johiuggf.runtimeconfig.dev.json
+C:\Users\dell\source\repos\johiuggf\johiuggf\bin\Debug\netcoreapp2.0\johiuggf.dll
+C:\Users\dell\source\repos\johiuggf\johiuggf\bin\Debug\netcoreapp2.0\johiuggf.pdb
+C:\Users\dell\source\repos\johiuggf\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.csprojResolveAssemblyReference.cache
+C:\Users\dell\source\repos\johiuggf\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\johiuggf\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\johiuggf\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.AssemblyInfo.cs
+C:\Users\dell\source\repos\johiuggf\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.dll
+C:\Users\dell\source\repos\johiuggf\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.pdb
+C:\Users\Patrial Derivative\Documents\Programming\Visual Studio\Snake\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.csprojAssemblyReference.cache
+C:\Users\Patrial Derivative\Documents\Programming\Visual Studio\Snake\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.csproj.CoreCompileInputs.cache
+C:\Users\Patrial Derivative\Documents\Programming\Visual Studio\Snake\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.AssemblyInfoInputs.cache
+C:\Users\Patrial Derivative\Documents\Programming\Visual Studio\Snake\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.AssemblyInfo.cs
+C:\Users\Patrial Derivative\Documents\Programming\Visual Studio\Snake\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.dll
+C:\Users\Patrial Derivative\Documents\Programming\Visual Studio\Snake\johiuggf\obj\Debug\netcoreapp2.0\johiuggf.pdb
